@@ -14,7 +14,7 @@ Before running the application, make sure you have the following prerequisites i
 2. Navigate to the project directory.
 
 ```bash
-cd cinema-tickets-javascript
+cd dwp-cinema-tickets
 ```
 
 3. Install the dependencies using npm.
