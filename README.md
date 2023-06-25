@@ -27,7 +27,7 @@ npm install
 
 To run the application and purchase cinema tickets, follow these steps:
 
-1. Open the `app.js` file located in the `src` directory.
+1. Open the `app.js` file located in the root directory.
 2. Customize the `ticketTypeRequests` array with the desired ticket types and quantities.
 3. Save the file.
 
