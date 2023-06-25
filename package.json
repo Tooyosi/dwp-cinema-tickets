@@ -10,11 +10,14 @@
     "test": "NODE_OPTIONS=--experimental-vm-modules npx jest --watch"
   },
   "devDependencies": {
-    "jest": "28.1.1",
+    "jest": "^28.1.1",
+    "jest-cli": "^29.4.3",
     "mocha": "10.0.0"
   },
   "jest": {
-    "testMatch": ["**/test/**/*.js"],
+    "testMatch": [
+      "**/test/**/*.js"
+    ],
     "testPathIgnorePatterns": [
       "/node_modules/"
     ]
